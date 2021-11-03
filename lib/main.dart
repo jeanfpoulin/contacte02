@@ -12,7 +12,7 @@ class MyApp extends StatelessWidget {
       theme: ThemeData(
         primarySwatch: Colors.blue,
       ),
-      home: Scaffold(body: Text('Projet Vide')),
+      home: Scaffold(body: Text('Projet pour contactes')),
     );
   }
 }
